@@ -1,6 +1,5 @@
 # Luis Alquinta | Daniel 👋
 Ingeniero en Informática.
-Actualmente aprendiendo desarrollo web y construyendo proyectos para seguir mejorando.
 
 🎬 Cine | 🎮 Videojuegos | 🍩 Repostería | 🍺 Cervezas
 
