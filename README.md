@@ -1,4 +1,4 @@
-# Hola, soy Luis Alquinta, AKA Daniel 👋
+# Luis Alquinta | Daniel 👋
 Ingeniero en Informática.
 Actualmente aprendiendo desarrollo web y construyendo proyectos para seguir mejorando.
 
