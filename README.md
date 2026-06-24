@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Luis Alquinta, AKA Daniel 👋
+Ingeniero en Informática.
+Actualmente aprendiendo desarrollo web y construyendo proyectos para seguir mejorando.
 
-<!--
-**lalquintap/lalquintap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 Cine | 🎮 Videojuegos | 🍩 Repostería | 🍺 Cervezas
 
-Here are some ideas to get you started:
+## Tecnologías
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estadísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalquintap&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalquintap&layout=compact&theme=transparent)
