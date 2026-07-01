@@ -5,7 +5,7 @@ Actualmente desarrollando Zentir — aplicación web para el registro y reestruc
 ## Fuera del código
 
 - 🎬 Cine — [Letterboxd](https://letterboxd.com/runtime_err0r)
-- 🎮 Videojuegos — [Steam](https://steamcommunity.com/id/misterzeta)
+- 🎮 Videojuegos — [Steam](https://steamcommunity.com/id/runtime_err0r)
 - 🍰 Repostería artesanal — ventas ocasionales  [Instagram](https://www.instagram.com/runtime.err0r)
 
 ---
