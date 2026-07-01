@@ -5,7 +5,7 @@ Ingeniero en Informática.
 
 - 🎬 [Cine](https://letterboxd.com/runtime_err0r)
 - 🎮 [Videojuegos](https://steamcommunity.com/id/misterzeta)
-- - 🍰 [Repostería casera — ventas ocasionales] [Instagram](https://instagram.com/runtime.err0r)
+- 🍰 [Repostería casera — ventas ocasionales](https://instagram.com/runtime.err0r)
 
 
 ## Tecnologías
