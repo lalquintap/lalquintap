@@ -8,5 +8,4 @@ Ingeniero en Informática.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalquintap&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalquintap&layout=compact&theme=transparent)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=lalquintap&theme=tokyonight&custom_title=Daniel)
