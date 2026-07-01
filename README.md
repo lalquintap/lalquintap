@@ -3,8 +3,9 @@ Ingeniero en Informática.
 
 ## 🎬 Fuera del código
 
-- 🎬 [Cine](https://letterboxd.com/tu_usuario)
-- 🎮 [Videojuegos](https://steamcommunity.com/id/tu_usuario)
+- 🎬 [Cine](https://letterboxd.com/runtime_err0r)
+- 🎮 [Videojuegos](https://steamcommunity.com/id/misterzeta)
+- - 🍰 [Repostería casera — ventas ocasionales] [Instagram](https://instagram.com/runtime.err0r)
 
 
 ## Tecnologías
